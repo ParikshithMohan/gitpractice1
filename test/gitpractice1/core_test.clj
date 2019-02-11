@@ -3,5 +3,5 @@
             [gitpractice1.core :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
+  (testing "i just edited this 1"
     (is (= 0 1))))
